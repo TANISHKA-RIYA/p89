@@ -2,7 +2,6 @@ body
 {
 	background: rgb(239, 209, 209);
 }
-
 .divlogin 
 {
 	background: whitesmoke;
@@ -10,8 +9,6 @@ body
 	float: none;
 	border-radius: 15px;
 }
-
-
 #inputplayer1 , #inputplayer2
 {
 	display: inline-block;
