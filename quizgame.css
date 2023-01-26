@@ -15,14 +15,6 @@ body
 	margin-left: 20px;
 	width:25%;
 }
-#word
-{
-	width: 60%;
-}
-#word_display
-{
-	letter-spacing: 5px;
-}
 #output
 {
 background: white;
